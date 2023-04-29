@@ -1,0 +1,51 @@
+Stack Vs Input
+E$ vs (a+a)*a$
+TQ$ vs (a+a)*a$
+FRQ$ vs (a+a)*a$
+ERQ$ vs a+a*a$
+TQRQ$ vs a+a*a$
+FRQRQ$ vs a+a*a$
+RQRQ$ vs +a*a$
+QRQ$ vs +a*a$
+TQRQ$ vs a*a$
+FRQRQ$ vs a*a$
+RQRQ$ vs *a$
+FRQRQ$ vs a$
+RQRQ$ vs $
+QRQ$ vs $
+RQ$ vs $
+Q$ vs $
+$ vs $
+The string is valid
+
+Stack Vs Input
+E$ vs a*(a+a)$
+TQ$ vs a*(a+a)$
+FRQ$ vs a*(a+a)$
+RQ$ vs *(a+a)$
+FRQ$ vs (a+a)$
+ERQ$ vs a+a$
+TQRQ$ vs a+a$
+FRQRQ$ vs a+a$
+RQRQ$ vs +a$
+QRQ$ vs +a$
+TQRQ$ vs a$
+FRQRQ$ vs a$
+RQRQ$ vs $
+QRQ$ vs $
+RQ$ vs $
+Q$ vs $
+$ vs $
+The string is valid
+
+Stack Vs Input
+E$ vs a(a+a)$
+TQ$ vs a(a+a)$
+FRQ$ vs a(a+a)$
+RQ$ vs (a+a)$
+Q$ vs (a+a)$
+$ vs (a+a)$
+The string is not valid
+
+
+Process finished with exit code 0
